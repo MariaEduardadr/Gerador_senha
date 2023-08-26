@@ -4,8 +4,7 @@
 <br>
 
 <p align="center">
-  <img alt="imagem do projeto" src="img.png
-  " width="100%">
+  <img alt="imagem do projeto" src=".github/img.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
